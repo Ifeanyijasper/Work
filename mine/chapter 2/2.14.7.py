@@ -1,6 +1,6 @@
-z=51
-p=int(z)+14
-d=int(p)%24
+a=51
+b=(a)+14
+d=(b)%24
 if d>12:
     print(d-12 ,"pm")
 else:
